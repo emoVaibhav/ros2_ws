@@ -1,0 +1,6 @@
+[console_scripts]
+listener1 = py_pubsub.msgsub.py:main
+listner = py_pubsub.subscriber_member_function.py:main
+talker = py_pubsub.publisher_member_function.py:main
+talker1 = py_pubsub.msgpub.py:main
+

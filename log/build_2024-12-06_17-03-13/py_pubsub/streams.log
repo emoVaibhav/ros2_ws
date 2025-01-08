@@ -1,0 +1,40 @@
+[0.716s] Invoking command in '/home/vd/ros2ws/src/py_pubsub': PYTHONPATH=/home/vd/ros2ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vd/ros2ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/vd/ros2ws/build/py_pubsub/build install --record /home/vd/ros2ws/build/py_pubsub/install.log --single-version-externally-managed install_data
+[0.899s] running egg_info
+[0.899s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[0.899s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.899s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.899s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.899s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.899s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.899s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.901s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.901s] adding license file 'LICENSE'
+[0.901s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.901s] running build
+[0.901s] running build_py
+[0.901s] creating /home/vd/ros2ws/build/py_pubsub/build
+[0.902s] creating /home/vd/ros2ws/build/py_pubsub/build/lib
+[0.902s] creating /home/vd/ros2ws/build/py_pubsub/build/lib/py_pubsub
+[0.902s] copying py_pubsub/subscriber_member_function.py -> /home/vd/ros2ws/build/py_pubsub/build/lib/py_pubsub
+[0.906s] copying py_pubsub/publisher_member_function.py -> /home/vd/ros2ws/build/py_pubsub/build/lib/py_pubsub
+[0.906s] copying py_pubsub/__init__.py -> /home/vd/ros2ws/build/py_pubsub/build/lib/py_pubsub
+[0.907s] running install
+[0.907s] running install_lib
+[0.908s] creating /home/vd/ros2ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.908s] copying /home/vd/ros2ws/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/vd/ros2ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.908s] copying /home/vd/ros2ws/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/vd/ros2ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.908s] copying /home/vd/ros2ws/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/vd/ros2ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.908s] byte-compiling /home/vd/ros2ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[0.909s] byte-compiling /home/vd/ros2ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[0.909s] byte-compiling /home/vd/ros2ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/__init__.py to __init__.cpython-310.pyc
+[0.909s] running install_data
+[0.909s] creating /home/vd/ros2ws/install/py_pubsub/share/ament_index
+[0.909s] creating /home/vd/ros2ws/install/py_pubsub/share/ament_index/resource_index
+[0.909s] creating /home/vd/ros2ws/install/py_pubsub/share/ament_index/resource_index/packages
+[0.910s] copying resource/py_pubsub -> /home/vd/ros2ws/install/py_pubsub/share/ament_index/resource_index/packages
+[0.910s] copying package.xml -> /home/vd/ros2ws/install/py_pubsub/share/py_pubsub
+[0.910s] running install_egg_info
+[0.911s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/vd/ros2ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[0.911s] running install_scripts
+[0.930s] Installing talker script to /home/vd/ros2ws/install/py_pubsub/lib/py_pubsub
+[0.930s] writing list of installed files to '/home/vd/ros2ws/build/py_pubsub/install.log'

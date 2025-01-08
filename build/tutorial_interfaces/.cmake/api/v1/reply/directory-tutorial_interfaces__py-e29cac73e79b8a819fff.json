@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tutorial_interfaces__py",
+		"source" : "/home/vd/ros2ws/build/tutorial_interfaces/tutorial_interfaces__py"
+	}
+}

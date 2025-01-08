@@ -1,0 +1,6 @@
+Invoking command in '/home/vd/ros2ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/home/vd/ros2ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake /home/vd/ros2ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/vd/ros2ws/install/tutorial_interfaces
+Invoked command in '/home/vd/ros2ws/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=/home/vd/ros2ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake /home/vd/ros2ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/vd/ros2ws/install/tutorial_interfaces
+Invoking command in '/home/vd/ros2ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/home/vd/ros2ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/vd/ros2ws/build/tutorial_interfaces -- -j4 -l4
+Invoked command in '/home/vd/ros2ws/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=/home/vd/ros2ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --build /home/vd/ros2ws/build/tutorial_interfaces -- -j4 -l4
+Invoking command in '/home/vd/ros2ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/home/vd/ros2ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/vd/ros2ws/build/tutorial_interfaces
+Invoked command in '/home/vd/ros2ws/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=/home/vd/ros2ws/install/py_pubsub:/opt/ros/humble /usr/bin/cmake --install /home/vd/ros2ws/build/tutorial_interfaces
